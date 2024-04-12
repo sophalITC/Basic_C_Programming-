@@ -71,4 +71,4 @@ For support and inquiries, reach out to the course coordinator. Contact details 
 
 Best of luck with your studies, and happy coding!
 
-[Institute of Technology of Cambodia](http://www.itc.edu.kh/en/)
+[Institute of Technology of Cambodia](https://itc.edu.kh/home-ams/)
